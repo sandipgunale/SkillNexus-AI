@@ -765,15 +765,7 @@ Future work only — nothing here is claimed as done:
 
 ---
 
-## Acknowledgments and Attribution
 
-SkillNexus AI is adapted from **CareerMetric AI** by **Anitya Anand**:
-
-- Original repository: <https://github.com/anitya66/CareerMetric-AI>
-- Original tagline: *Measure Your Readiness. Master Your Skills. Ace Your Interview.*
-- Original author profile: <https://github.com/anitya66>
-
-All pre-existing business logic, AI prompts, architecture, and UI design remain the work of the original author. This fork contributes the SkillNexus AI rebrand, verification, documentation, and any future changes recorded in its own commit history. Git history and author credits must be preserved and must not be rewritten to imply inherited work is new.
 
 ### Intentionally unchanged identifiers
 
